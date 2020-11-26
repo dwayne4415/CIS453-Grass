@@ -1,95 +1,50 @@
-
 body {
-position: relative;
-width: 1227px;
-height: 1458px;
-
-background: #FBFCF9;
-
-
-/* Search */
-
-position: absolute;
-width: 134px;
-height: 14px;
-left: 1034px;
-top: 19px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 12px;
-line-height: 14px;
-/* identical to box height */
-text-align: center;
-
-color: #000000;
-
-mix-blend-mode: darken;
-
-
-
-
-
-
-/* Raleigh-St-Augustine-300x300 1 */
-
-position: absolute;
-width: 300px;
-height: 300px;
-left: 32px;
-top: 264px;
-
- <img src= "./static/products/Raleigh-St-Augustine-150x150.jpg" />
-
-
-/* Grass-300x300 1 */
-
-position: absolute;
-width: 300px;
-height: 300px;
-left: 426px;
-top: 264px;
-
-background: url(./static/products/Grass-150x150.jpg);
-
-
-/* Celebration-Bermuda-300x300 1 */
-
-position: absolute;
-width: 300px;
-height: 300px;
-left: 808px;
-top: 264px;
-
-background: url(./static/products/Celebration-Bermuda-150x150.jpg);
-
-
-/* grass-patch-logo 1 */
-
-position: absolute;
-width: 138px;
-height: 125px;
-left: 8px;
-top: 0px;
-
-background: url(./static/products/grass-patch-logo.png);
-
-
-/* F J Select St. Augustine */
-
-position: absolute;
-width: 195px;
-height: 19px;
-left: 78px;
-top: 577px;
-
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 16px;
-text-align: center;
-
-color: #000000;
+    background-color: #3cff00;
+    padding: 20px;
+    margin: 0; 
+  }
+image {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 32px;
+    top: 264px;
+    background: no-repeat top/50% url(./static/products/grass-patch-logo.png);
 }
+
+  h1, h2, p, ul, li {
+    font-family: sans-serif;
+  }
+  ul.header li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+  }
+  ul.header {
+    background-color: #111;
+    padding: 0;
+  }
+  ul.header li a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+  }
+  .content {
+    background-color: #FFF;
+    padding: 20px;
+  }
+  .content h2 {
+    padding: 0;
+    margin: 0;
+  }
+  .content li {
+    margin-bottom: 10px;
+  }
+  .active {
+      background-color: #0099FF;
+    }
+  
+    
+    

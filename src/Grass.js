@@ -1,5 +1,5 @@
 import React, { Component } from "react";
- 
+
 class Grass extends Component {
   render() {
     return (
@@ -13,8 +13,8 @@ and availability please contact 512-259-5188.:</p>
           <li>Zoysia</li>
           <li>St. Augustine</li>
           <li>Buffalo</li>
-          
-        </ol>
+          <img src="https://source.unsplash.com/random/400x200"alt="" />
+         </ol>
       </div>
     );
   }
