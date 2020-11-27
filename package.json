@@ -2,7 +2,7 @@
   "name": "react_spa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dwayne4415.github.io/CIS453-Grass/. ",
+  "homepage": "https://dwayne4415.github.io/CIS453-Grass/ ",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.0",
