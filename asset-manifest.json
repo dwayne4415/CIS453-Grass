@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CIS453-Grass/.%20/static/css/main.be630978.chunk.css",
+    "main.js": "/CIS453-Grass/.%20/static/js/main.97354bc8.chunk.js",
+    "main.js.map": "/CIS453-Grass/.%20/static/js/main.97354bc8.chunk.js.map",
+    "runtime-main.js": "/CIS453-Grass/.%20/static/js/runtime-main.8b6cc9c2.js",
+    "runtime-main.js.map": "/CIS453-Grass/.%20/static/js/runtime-main.8b6cc9c2.js.map",
+    "static/js/2.e7f1e574.chunk.js": "/CIS453-Grass/.%20/static/js/2.e7f1e574.chunk.js",
+    "static/js/2.e7f1e574.chunk.js.map": "/CIS453-Grass/.%20/static/js/2.e7f1e574.chunk.js.map",
+    "index.html": "/CIS453-Grass/.%20/index.html",
+    "static/css/main.be630978.chunk.css.map": "/CIS453-Grass/.%20/static/css/main.be630978.chunk.css.map",
+    "static/js/2.e7f1e574.chunk.js.LICENSE.txt": "/CIS453-Grass/.%20/static/js/2.e7f1e574.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/CIS453-Grass/.%20/static/media/grass-patch-logo.0edbab52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b6cc9c2.js",
+    "static/js/2.e7f1e574.chunk.js",
+    "static/css/main.be630978.chunk.css",
+    "static/js/main.97354bc8.chunk.js"
+  ]
+}
